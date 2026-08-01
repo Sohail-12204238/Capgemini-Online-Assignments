@@ -1,0 +1,70 @@
+
+
+
+Advanced Mapping
+
+Extract names of employees earning more than average salary.
+
+Get the length of the longest string in a list.
+
+Convert a list of strings to a map (string → length).
+
+Convert a list of products to a map (product name → price).
+
+Transform a list of employees to a list of their departments (unique).
+
+
+
+
+
+FlatMap Operations
+
+Flatten a list of lists of integers.
+
+Flatten a list of arrays of strings.
+
+Split sentences into individual words and collect all unique words.
+
+Given a list of orders (each with list of items), get all item names.
+
+Flatten a map of lists into a single list.
+
+
+
+Sorting Complex
+
+Sort strings by length, then alphabetically.
+
+Sort numbers by their absolute value.
+
+
+ADVANCED (Complex Problems)
+Real-World Scenarios
+
+Shopping Cart: Given a list of orders (each with customer name and list of items with prices), calculate total amount spent by each customer.
+
+Library System: Given a list of books (title, author, year, genre), find the most published genre and the author with most books.
+
+Employee Analysis: Given employees (id, name, department, salary, joining date), find the department-wise average salary of employees hired in the last 5 years.
+
+Student Report: Given students (name, marks in 5 subjects), calculate each student's percentage and rank them.
+
+Hotel Booking: Given room bookings (check-in date, check-out date, room type, guest name), find the most popular room type and total revenue per room type.
+
+
+Complex Data Structures
+
+Flatten a Map of String → List<Integer> into a list of all integers.
+
+Convert a nested Map (Map<String, Map<String, Integer>>) to a flat list of entries.
+
+Group employees by department and then by their salary range (e.g., < 50000, 50000-100000, > 100000).
+
+Flatten a tree structure (like categories with subcategories).
+
+Convert CSV data (List of String arrays) into objects and perform analysis.
+
+
+
+
+
